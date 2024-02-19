@@ -1,0 +1,8 @@
+Object detection using tensorflow on Windows.
+
+Find bees and butterflies in the images.
+
+See the PDF:
+https://drive.google.com/open?id=1nKMWJa0TFVJpybAn2dGaMCIGrfKkQ8Et
+
+The pdf is ported from the old website betweenandbetwixt.com (no longer available)
